@@ -1,11 +1,15 @@
 
 # Hey! Very nice to meet you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I'm Matheus Araújo, technology enthusiast and music lover. I found a new passion in technology, which motivates me to make the world better today than it was yesterday.
+<p>
+  <h3>I'm Matheus Araújo, technology enthusiast and music lover. I found a new passion in technology, which motivates me to make the world better today than it was yesterday.</h3>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-mbma.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mbma-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-mbma.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:mbma.dev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-matheusbmaraujo-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/matheusbmaraujo/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mbma-dev/" target="_blank"><img src="https://img.shields.io/badge/-mbma.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mbma.dev/"></img></a>
+  <a href="mailto:mbma.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mbma.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbma.dev@gmail.com"></img></a>
+  <a href="https://www.instagram.com/matheusbmaraujo/" target="_blank"><img src="https://img.shields.io/badge/-matheusbmaraujo-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matheusbmaraujo/"></img></a>
+</p>
 
 <br></br>
 
