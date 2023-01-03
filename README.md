@@ -38,6 +38,8 @@
 <br><br/>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=matheusbma&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbma&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <a href="https://github.com/JoaquimBreno">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusbma&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbma&hide=jupyter%20notebook&hide_border=true&theme=dark&bg_color=00000000&layout=compact&langs_count=6" />
+  </a>
 </p>
