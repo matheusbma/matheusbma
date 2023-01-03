@@ -30,9 +30,9 @@
 <h2 align="center">📤 My contacts</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mbma-dev/" target="_blank"><img src="https://img.shields.io/badge/-mbma.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mbma.dev/"></img></a>
-  <a href="mailto:mbma.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mbma.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbma.dev@gmail.com"></img></a>
-  <a href="https://www.instagram.com/matheusbmaraujo/" target="_blank"><img src="https://img.shields.io/badge/-matheusbmaraujo-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matheusbmaraujo/"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/mbma-dev/"><img src="https://img.shields.io/badge/-mbma.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mbma.dev/"></img></a>
+  <a target="_blank" href="mailto:mbma.dev@gmail.com"><img src="https://img.shields.io/badge/-mbma.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbma.dev@gmail.com"></img></a>
+  <a target="_blank" href="https://www.instagram.com/matheusbmaraujo/"><img src="https://img.shields.io/badge/-matheusbmaraujo-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matheusbmaraujo/"></img></a>
 </p>
 
 <br><br/>
