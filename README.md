@@ -1,9 +1,13 @@
 
-# Hey! Very nice to meet you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hey! Very nice to meet you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <p>
-  <h3>I'm Matheus Araújo, technology enthusiast and music lover. I found a new passion in technology, which motivates me to make the world better today than it was yesterday.</h3>
+  <h4>I'm Matheus Araújo, technology enthusiast and music lover. I found a new passion in technology, which motivates me to make the world better today than it was yesterday.</h3>
 </p>
+
+<br><br/>
+
+<h2 align="center">📤 My contacts</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mbma-dev/" target="_blank"><img src="https://img.shields.io/badge/-mbma.dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mbma.dev/"></img></a>
@@ -11,7 +15,7 @@
   <a href="https://www.instagram.com/matheusbmaraujo/" target="_blank"><img src="https://img.shields.io/badge/-matheusbmaraujo-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matheusbmaraujo/"></img></a>
 </p>
 
-<br></br>
+<br><br/>
 
 <h2 align="center">👾 Technologies and Tools I love</h2>
 
@@ -35,8 +39,12 @@
   <a><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></img></a>
 </p>
 
+<br><br/>
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=matheusbma&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbma&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <!--
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=matheusbma&theme=dark&hide_border=true&background=00000000">
+  -->
 </p>
