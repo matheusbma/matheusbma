@@ -5,8 +5,6 @@
   <h4>I'm Matheus Araújo, technology enthusiast and music lover. I found a new passion in technology, which motivates me to make the world better today than it was yesterday.</h3>
 </p>
 
-<br><br/>
-
 <h2 align="center">📤 My contacts</h2>
 
 <p align="center">
@@ -14,8 +12,6 @@
   <a href="mailto:mbma.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mbma.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbma.dev@gmail.com"></img></a>
   <a href="https://www.instagram.com/matheusbmaraujo/" target="_blank"><img src="https://img.shields.io/badge/-matheusbmaraujo-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/matheusbmaraujo/"></img></a>
 </p>
-
-<br><br/>
 
 <h2 align="center">👾 Technologies and Tools I love</h2>
 
